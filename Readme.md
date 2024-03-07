@@ -1,12 +1,11 @@
-😁 **Hi all! My name is Alhayan**
+😁 **Hi all! My name is David**
 <hr>
-
-😉 I'm a simple little person who decided to learn programming! You can see the whole story in my repositories!
+😉 I’m a simple junior from Javascript, I’m studying it, I’m learning it, I’m developing it, this is git zab and all the projects are my story, which I ask you to familiarize yourself with and I’m interesting to you. I won't have code without crutches, at least until I learn to write cleaner code.
 <hr>
 
 > Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlHayan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-voyager&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlHayan&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-voyager&hide_progress=true)
