@@ -1,4 +1,4 @@
-😁 **Hi all! My name is David**
+😁 **Hi all! My name is voyager.**
 <hr>
 😉 I’m a simple junior from Javascript, I’m studying it, I’m learning it, I’m developing it, this is git zab and all the projects are my story, which I ask you to familiarize yourself with and I’m interesting to you. I won't have code without crutches, at least until I learn to write cleaner code.
 <hr>
