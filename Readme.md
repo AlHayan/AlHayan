@@ -6,6 +6,6 @@
 > Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=discord.js&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-voyager&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-voyager&hide_progress=true)
