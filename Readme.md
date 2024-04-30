@@ -1,6 +1,6 @@
 😁 **Hi all! My name is voyager.**
 <hr>
-😉 I’m a simple junior from Javascript, I’m studying it, I’m learning it, I’m developing it, this is git hub and all the projects are my story, which I ask you to familiarize yourself with and I’m interesting to you. I won't have code without crutches, at least until I learn to write cleaner code.
+😉 This is my story on Git Hub, there are many repositories that I tried to create for you. I don’t know when my language jump will end, just watch and use it. 
 <hr>
 
 > Stats
